@@ -1,3 +1,4 @@
+require ('newrelic');
 const { Client, MessageMedia } = require('whatsapp-web.js');
 const express = require('express');
 const { body, validationResult } = require('express-validator');

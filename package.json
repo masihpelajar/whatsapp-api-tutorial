@@ -20,6 +20,7 @@
     "express-fileupload": "^1.2.1",
     "express-validator": "^6.10.0",
     "http": "0.0.1-security",
+    "newrelic": "^7.3.1",
     "pg": "^8.5.1",
     "qrcode": "^1.4.4",
     "socket.io": "2.3.0",
